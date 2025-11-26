@@ -1,2 +1,2 @@
-# Assingnment_1
-Secure Check: A Python-SQL digital ledger for police post logs
+# police_post
+SecureCheck: A Python-SQL Digital Ledger for Police Post Logs
